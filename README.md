@@ -4,3 +4,5 @@ This is my first repository.
 Author - Awais Farooq
 <br>
 Author - @ BestCoder
+<br>
+Credit goes to - Awais Farooq
